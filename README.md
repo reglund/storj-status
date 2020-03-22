@@ -1,0 +1,2 @@
+# storj-status
+storj-status
